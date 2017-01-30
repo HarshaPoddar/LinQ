@@ -1,0 +1,6 @@
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\bin\Debug\LinQAssignment.exe.config
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\bin\Debug\LinQAssignment.exe
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\bin\Debug\LinQAssignment.pdb
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\obj\Debug\LinQAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\obj\Debug\LinQAssignment.exe
+C:\Users\Harshvardhan.Poddar\Documents\WebAssignment\LinQAssignment\LinQAssignment\obj\Debug\LinQAssignment.pdb
